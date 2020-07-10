@@ -11,7 +11,12 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: 
-  https://www.linkedin.com/in/hamidfarmani/
+  
+[![pub package](https://img.shields.io/badge/me-Linkedin-blue?color=blue&style=flat-square)](https://www.linkedin.com/in/hamidfarmani//)
+
+[![pub package](https://img.shields.io/badge/me-Instagram-fb3958?color=fb3958&style=flat-square)](https://www.instagram.com/hamidfarmani/)
+  
+  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
