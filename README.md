@@ -65,15 +65,4 @@ I am a Fullstack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 
 
----
-
-### :fire: My Stats :
-<div align="center">
-    
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=hamidfarmani)](https://git.io/streak-stats)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidfarmani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-    
 </div>
