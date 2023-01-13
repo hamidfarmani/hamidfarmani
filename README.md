@@ -5,7 +5,7 @@
         <a href="https://www.linkedin.com/in/hamidfarmani/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
         </a>
-        <a href="https://twitter.com/Hamid_Farmani">
+        <a href="https://twitter.com/Hamo_far">
             <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
         </a>
 </div>
@@ -26,20 +26,12 @@
 
 
 
-### :man_technologist: About Me :
+### :man_technologist: About Me:
 
-I am a Fullstack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Gorgan, Iran, currently living in Gothenburg, Sweden.
+I'm a software engineer with a passion for building web applications. I have experience in both back-end and full-stack development, and I specialize in using Java and React. I've also worked with cloud platforms like AWS and Azure.
 
-
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :zap: In my free time, I solve problems on LeetCode and read tech articles. I would like to expand my knowledge in MachineLearning as well.
-
--  :seedling: I like to travel, go to nature and play basketball.
-
-
-- :mailbox:How to reach me:   [![pub package](https://img.shields.io/badge/me-Linkedin-blue?color=blue&style=flat-square)](https://www.linkedin.com/in/hamidfarmani//)
-
+- :zap: In my free time, I like reading tech articles but more than that, I love traveling and playing basketball.
+- :house_with_garden: I'm originally from Gorgan, Iran, lived in Yerevan, Armenia and currently living in Gothenburg, Sweden.
 
 
 ---
