@@ -34,7 +34,7 @@
 I'm a software engineer with a passion for building web applications. I have experience in both back-end and full-stack development, and I specialize in using Java and React. I've also worked with cloud platforms like AWS and Azure.
 
 - :zap: In my free time, I like reading tech articles but more than that, I love traveling and playing basketball.
-- :house_with_garden: I'm originally from Gorgan, Iran, lived in Yerevan, Armenia and currently living in Gothenburg, Sweden.
+- :house_with_garden: I'm originally from Gorgan, Iran, lived in Yerevan, Armenia and currently living in Uppsala, Sweden.
 
 
 ---
