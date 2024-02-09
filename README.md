@@ -8,9 +8,6 @@
         <a href="https://www.youtube.com/@hamidfarmani">
             <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube Badge" />
         </a>
-        <a href="https://twitter.com/Hamo_far">
-            <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
-        </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=hamidfarmani&style=flat-square&color=blue" alt="" />
         <h1>
